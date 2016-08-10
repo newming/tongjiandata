@@ -32,5 +32,4 @@
 酒店拥有屡获殊荣的 Pontini 意式餐厅，为您供应真正的意大利经典及创意美食；而位于一楼的大上海餐厅则彰显时尚经典的氛围，让您品尝地道的中式菜肴；而对于那些热衷品尝世界各地美食的宾客，Cafe Brios 餐厅的国际自助餐将实现他们的所有期待。
 
 ![hotel1](http://obmf232cc.bkt.clouddn.com/hotel1.jpeg)
-
 ![hotel2](http://obmf232cc.bkt.clouddn.com/hotel2.jpeg)
