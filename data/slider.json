@@ -1,20 +1,26 @@
 [
   {
-    "title":"这是一个美丽的景点",
-    "subtitle":"这是一个美丽的景点这是一个美丽的景点",
-    "img":"http://obmf232cc.bkt.clouddn.com/banner1.jpg",
-    "url":"zushan"
+    "title":"海居小月湾",
+    "subtitle":"独家资源 行程精致舒适",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/xiaoyuewan.jpg",
+    "url":"xiaoyuewan"
   },
   {
-    "title":"这是一个美丽的景点",
-    "subtitle":"这是一个美丽的景点这是一个美丽的景点",
-    "img":"http://obmf232cc.bkt.clouddn.com/banner1.jpg",
-    "url":"zushan"
+    "title":"红叶谷生态文化旅游区",
+    "subtitle":"登高送目看万山红遍",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/hongyegu.jpg",
+    "url":"hongyegu"
   },
   {
-    "title":"这是一个美丽的景点",
-    "subtitle":"这是一个美丽的景点这是一个美丽的景点",
-    "img":"http://obmf232cc.bkt.clouddn.com/banner1.jpg",
-    "url":"zushan"
+    "title":"桂林 漓江 市区水上游",
+    "subtitle":"全景桂林概念 打造桂林旅游爆款线路",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/guilin.jpg",
+    "url":"guilin"
+  },
+  {
+    "title":"上海迪士尼乐园",
+    "subtitle":"神奇王国发现无限可能",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/disini.jpg",
+    "url":"disini"
   }
 ]
