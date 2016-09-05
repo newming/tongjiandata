@@ -1,50 +1,50 @@
 [
   {
-    "title":"白宫",
-    "desc":"美国神圣之地",
-    "img":"http://obmf232cc.bkt.clouddn.com/home1.jpg",
-    "url":"zushan",
-    "price":10500,
-    "preprice":10300
+    "title":"新马波德申",
+    "desc":"豪华七日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/xinmabodeshen.jpg",
+    "url":"xinmabodeshen",
+    "price":5380,
+    "preprice":5500
   },
   {
-    "title":"自由女神像",
-    "desc":"自由明主的象征",
-    "img":"http://obmf232cc.bkt.clouddn.com/home2.jpg",
-    "url":"qiuxianruhai",
-    "price":60000,
-    "preprice":57000
+    "title":"日本本州",
+    "desc":"全景五日",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/ribenbenzhou.jpg",
+    "url":"ribenbenzhou",
+    "price":6180,
+    "preprice":6300
   },
   {
-    "title":"大本钟",
-    "desc":"世间奇观",
-    "img":"http://obmf232cc.bkt.clouddn.com/home3.jpg",
-    "url":"beidaihe",
-    "price":6600,
-    "preprice":8000
+    "title":"贵族海参崴",
+    "desc":"五日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/haishenwai.jpg",
+    "url":"haishenwai",
+    "price":5980,
+    "preprice":6200
   },
   {
-    "title":"古埃及",
-    "desc":"智慧文明的发源地，人类智慧结晶",
-    "img":"http://obmf232cc.bkt.clouddn.com/home4.jpg",
-    "url":"jinshawan",
-    "price":6600,
-    "preprice":8000
+    "title":"缤纷泰国",
+    "desc":"5晚7天",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/binfentaiguo.jpg",
+    "url":"binfentaiguo",
+    "price":4399,
+    "preprice":4600
   },
   {
-    "title":"阿尔卑斯山",
-    "desc":"这里是雪的天堂，纯洁美丽",
-    "img":"http://obmf232cc.bkt.clouddn.com/home5.jpg",
-    "url":"laolongtou",
-    "price":6600,
-    "preprice":8000
+    "title":"首尔",
+    "desc":"双飞五日 自由行",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/shouer.jpg",
+    "url":"shouer",
+    "price":3080,
+    "preprice":3580
   },
   {
-    "title":"热带雨林",
-    "desc":"充满原始气息的旅游圣地",
-    "img":"http://obmf232cc.bkt.clouddn.com/home6.jpg",
-    "url":"shanhaiguan",
-    "price":88000,
-    "preprice":90000
+    "title":"尊贵普吉岛",
+    "desc":"送曼谷 5晚7天",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/pujidao.jpg",
+    "url":"pujidao",
+    "price":4480,
+    "preprice":4620
   }
 ]

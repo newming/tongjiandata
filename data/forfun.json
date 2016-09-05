@@ -1,50 +1,74 @@
 [
   {
-    "title":"泰山",
-    "desc":"高山之巅，心有羽翼",
-    "img":"http://obmf232cc.bkt.clouddn.com/home1.jpg",
-    "url":"zushan",
-    "price":1000,
-    "preprice":1000
+    "title":"重庆市内",
+    "desc":"九寨 黄龙 熊猫乐园双飞6日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/chongqingshinei.jpg",
+    "url":"chongqingshinei",
+    "price":3680,
+    "preprice":3880
   },
   {
-    "title":"马尔代夫",
-    "desc":"夏日游玩必选之地",
-    "img":"http://obmf232cc.bkt.clouddn.com/home2.jpg",
-    "url":"qiuxianruhai",
-    "price":6000,
-    "preprice":7000
+    "title":"桂林 漓江",
+    "desc":"桂林旅游爆款线路",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/guilin1.jpg",
+    "url":"guilin",
+    "price":2080,
+    "preprice":2280
   },
   {
-    "title":"死海",
-    "desc":"世间奇观",
-    "img":"http://obmf232cc.bkt.clouddn.com/home3.jpg",
-    "url":"beidaihe",
-    "price":6600,
-    "preprice":8000
+    "title":"环游甘青",
+    "desc":"兰州、祁连卓尔山、张掖丹霞、敦煌莫高窟、鸣沙山月牙泉双飞8",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/lanzhou.jpg",
+    "url":"lanzhou",
+    "price":7280,
+    "preprice":7380
   },
   {
-    "title":"金沙湾",
-    "desc":"国家五星级景区，滑沙滑草，其乐融融",
-    "img":"http://obmf232cc.bkt.clouddn.com/home4.jpg",
-    "url":"jinshawan",
-    "price":6600,
-    "preprice":8000
+    "title":"魅力浙东",
+    "desc":"杭州、千岛湖、乌镇高铁四日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/qiandaohu.jpg",
+    "url":"qiandaohu",
+    "price":1980,
+    "preprice":2100
   },
   {
-    "title":"老龙头",
-    "desc":"国家五星级景区，滑沙滑草，其乐融融",
-    "img":"http://obmf232cc.bkt.clouddn.com/home5.jpg",
-    "url":"laolongtou",
-    "price":6600,
-    "preprice":8000
+    "title":"藏之源",
+    "desc":"五日之旅",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/zangzhiyuan.jpg",
+    "url":"zangzhiyuan",
+    "price":3880,
+    "preprice":3980
   },
   {
-    "title":"山海关",
-    "desc":"万里长城起点，威武霸气",
-    "img":"http://obmf232cc.bkt.clouddn.com/home6.jpg",
-    "url":"shanhaiguan",
-    "price":8800,
-    "preprice":9000
-  }
+    "title":"迪士尼乐园",
+    "desc":"上海观光度假",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/dishini1.jpg",
+    "url":"dishini",
+    "price":2120,
+    "preprice":2380
+  },
+  {
+    "title":"海居小月湾",
+    "desc":"三亚双飞5日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/xiaoyuewan1.jpg",
+    "url":"xiaoyuewan",
+    "price":3760,
+    "preprice":3880
+  },
+  {
+    "title":"黄山 秀水千岛湖 屯溪双古街",
+    "desc":"纯玩高铁四日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/huangshan.jpg",
+    "url":"huangshan",
+    "price":2160,
+    "preprice":2380
+  },
+  {
+    "title":"香格里拉",
+    "desc":"三飞6日游",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/xianggelila.jpg",
+    "url":"xianggelila",
+    "price":3080,
+    "preprice":3180
+  },
 ]

@@ -1,50 +1,66 @@
 [
   {
-    "title":"祖山",
-    "desc":"高耸入云，休闲娱乐圣地！",
-    "img":"http://obmf232cc.bkt.clouddn.com/home1.jpg",
-    "url":"zushan",
-    "price":1000,
-    "preprice":1000
+    "title":"红叶谷",
+    "desc":"国家AAAA级旅游景区",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/hongyegu1.jpg",
+    "url":"hongyegu",
+    "price":80,
+    "preprice":70
   },
   {
-    "title":"求仙入海处",
-    "desc":"神秘之地，实现愿望，求仙拜佛首选",
-    "img":"http://obmf232cc.bkt.clouddn.com/home2.jpg",
-    "url":"qiuxianruhai",
-    "price":6000,
-    "preprice":7000
+    "title":"灵岩寺",
+    "desc":"海内四大名刹",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/lingyanshi.jpg",
+    "url":"lingyanshi",
+    "price":60,
+    "preprice":55
   },
   {
-    "title":"北戴河国际娱乐中心",
-    "desc":"国家五星级景区，拥有全套的先进娱乐设施，给您带来欢乐",
-    "img":"http://obmf232cc.bkt.clouddn.com/home3.jpg",
-    "url":"beidaihe",
-    "price":6600,
-    "preprice":8000
+    "title":"泉城海洋极地世界",
+    "desc":"神秘惊险",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/haiyangjidi.jpg",
+    "url":"haiyangjidi",
+    "price":160,
+    "preprice":150
   },
   {
-    "title":"金沙湾",
-    "desc":"国家五星级景区，滑沙滑草，其乐融融",
-    "img":"http://obmf232cc.bkt.clouddn.com/home4.jpg",
-    "url":"jinshawan",
-    "price":6600,
-    "preprice":8000
+    "title":"九顶塔中华民俗欢乐园",
+    "desc":"大型原生态文化旅游区",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/jiudingta.jpg",
+    "url":"jiudingta",
+    "price":120,
+    "preprice":105
   },
   {
-    "title":"老龙头",
-    "desc":"国家五星级景区，滑沙滑草，其乐融融",
-    "img":"http://obmf232cc.bkt.clouddn.com/home5.jpg",
-    "url":"laolongtou",
-    "price":6600,
-    "preprice":8000
+    "title":"水帘峡",
+    "desc":"泉城之巅 趵突之源",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/shuilianxia.jpg",
+    "url":"shuilianxia",
+    "price":90,
+    "preprice":55
   },
   {
-    "title":"山海关",
-    "desc":"万里长城起点，威武霸气",
-    "img":"http://obmf232cc.bkt.clouddn.com/home6.jpg",
-    "url":"shanhaiguan",
-    "price":8800,
-    "preprice":9000
+    "title":"济南方特东方神画",
+    "desc":"诠释民间传统艺术",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/jinanfangte.jpg",
+    "url":"jinanfangte",
+    "price":100,
+    "preprice":69
+  },
+  {
+    "title":"蓬莱阁",
+    "desc":"中国古代四大名楼之一",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/penglaige.jpg",
+    "url":"penglaige",
+    "price":140,
+    "preprice":120
+  },
+  {
+    "title":"崂山",
+    "desc":"海上“第一名山”",
+    "img":"http://oclqfeuwb.bkt.clouddn.com/laoshan.jpg",
+    "url":"laoshan",
+    "price":130,
+    "preprice":120
   }
 ]
