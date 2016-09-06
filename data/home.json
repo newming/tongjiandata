@@ -4,63 +4,63 @@
     "desc":"国家AAAA级旅游景区",
     "img":"http://oclqfeuwb.bkt.clouddn.com/hongyegu1.jpg",
     "url":"hongyegu",
-    "price":80,
-    "preprice":70
+    "price":70,
+    "preprice":80
   },
   {
     "title":"灵岩寺",
     "desc":"海内四大名刹",
     "img":"http://oclqfeuwb.bkt.clouddn.com/lingyanshi.jpg",
     "url":"lingyanshi",
-    "price":60,
-    "preprice":55
+    "price":55,
+    "preprice":60
   },
   {
     "title":"泉城海洋极地世界",
     "desc":"神秘惊险",
     "img":"http://oclqfeuwb.bkt.clouddn.com/haiyangjidi.jpg",
     "url":"haiyangjidi",
-    "price":160,
-    "preprice":150
+    "price":150,
+    "preprice":160
   },
   {
     "title":"九顶塔中华民俗欢乐园",
     "desc":"大型原生态文化旅游区",
     "img":"http://oclqfeuwb.bkt.clouddn.com/jiudingta.jpg",
     "url":"jiudingta",
-    "price":120,
-    "preprice":105
+    "price":105,
+    "preprice":120
   },
   {
     "title":"水帘峡",
     "desc":"泉城之巅 趵突之源",
     "img":"http://oclqfeuwb.bkt.clouddn.com/shuilianxia.jpg",
     "url":"shuilianxia",
-    "price":90,
-    "preprice":55
+    "price":55,
+    "preprice":90
   },
   {
     "title":"济南方特东方神画",
     "desc":"诠释民间传统艺术",
     "img":"http://oclqfeuwb.bkt.clouddn.com/jinanfangte.jpg",
     "url":"jinanfangte",
-    "price":100,
-    "preprice":69
+    "price":69,
+    "preprice":100
   },
   {
     "title":"蓬莱阁",
     "desc":"中国古代四大名楼之一",
     "img":"http://oclqfeuwb.bkt.clouddn.com/penglaige.jpg",
     "url":"penglaige",
-    "price":140,
-    "preprice":120
+    "price":120,
+    "preprice":140
   },
   {
     "title":"崂山",
     "desc":"海上“第一名山”",
     "img":"http://oclqfeuwb.bkt.clouddn.com/laoshan.jpg",
     "url":"laoshan",
-    "price":130,
-    "preprice":120
+    "price":120,
+    "preprice":130
   }
 ]
